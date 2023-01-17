@@ -1,4 +1,4 @@
 # Olá, Mundo
- Aulas Git e Github CeV
+ Aulas Git e Github CEV
  
- linha adicionada diretamente pelo **github**
+ linha adicionada diretamente pelo **GitHub**
